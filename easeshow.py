@@ -48,7 +48,7 @@ def init_ease_info(card):
                                     font-size: 15px;
                                     font-weight: 600;
                                     margin: 0 auto;
-                                    width: 730px;
+                                    max-width: 730px;
                                     margin-top: 20px;
                                     margin-bottom: -5px;
                                 }
