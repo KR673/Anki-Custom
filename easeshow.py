@@ -47,7 +47,7 @@ def init_ease_info(card):
                                 #ease-container {
                                     font-size: 15px;
                                     font-weight: 600;
-                                    margin: 0 auto;
+                                    max-margin: 0 auto;
                                     width: 730px;
                                     margin-top: 20px;
                                     margin-bottom: -5px;
